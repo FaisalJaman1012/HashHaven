@@ -25,4 +25,8 @@ This Python script generates hash grabbing files for Windows systems to capture 
 
 This script is intended for educational and testing purposes only. Misuse of this script for unauthorized access or any malicious activity is illegal and unethical. Use it responsibly and only on systems you are authorized to test.
 
+<div style="text-align:center">
+    <img src="https://github.com/FaisalJaman1012/HashHaven/assets/91938237/85771ea2-6b34-467f-92d3-5dd32b6ecffd" alt="Step 3">
+  </div>
+
 
