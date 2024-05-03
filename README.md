@@ -1,15 +1,14 @@
 # HashHaven 
 
+## Introduction
 This Python script generates hash grabbing files for Windows systems to capture hashes from victim machines. It creates shortcut files (.scf and .lnk) that, when opened by a user, initiate hash capturing mechanisms.
 
 ## Table of Contents
-  1. Intoduction
-  2. Requirements
-  3. Installation
-  4. Usuage
+  1. Requirements
+  2. Installation
+  3. Usuage
+  4. Instructions
   5. Disclaimer
-
-## Introduction
 
 ## Requirements
 
@@ -37,41 +36,34 @@ This Python script generates hash grabbing files for Windows systems to capture 
     <img src="https://github.com/FaisalJaman1012/HashHaven/assets/91938237/8980e09a-9807-467a-b81c-8c80d8649e52" alt="Step 3">
   </div>
 
-  4. Run the script using Python3. run python3 HashHaven.py
+## Usage
+
+  1. Run the script using Python3. run python3 HashHaven.py
 
 <div style="text-align:center">
     <img src="https://github.com/FaisalJaman1012/HashHaven/assets/91938237/6e6c13d3-c7ac-4739-bb4c-2f1ea819f29d" alt="Step 3">
   </div>
 
-  5. Follow the prompts to enter the attacker's IP address and the desired output name.
+  2. Follow the prompts to enter the attacker's IP address and the desired output name.
 
 <div style="text-align:center">
     <img src="https://github.com/FaisalJaman1012/HashHaven/assets/91938237/a72058c7-eb4f-4207-8cf3-3c357b5dcbd8" alt="Step 3">
   </div>
 
-  6. The script will generate hash grabbing files: `.scf` and `.lnk`.
+  3. The script will generate hash grabbing files: `.scf` and `.lnk`.
 
 <div style="text-align:center">
     <img src="https://github.com/FaisalJaman1012/HashHaven/assets/91938237/cc0871c4-f198-41e8-96d0-f5c42dd7b076" alt="Step 3">
   <img src="https://github.com/FaisalJaman1012/HashHaven/assets/91938237/4e16fc34-8fad-40cd-b6b3-8142578c9782" alt="Step 3">
   </div>
 
-  7. Upload these files to an SMB share and capture hashes using tools like  `smbserver.py/responder`.
+  4. Upload these files to an SMB share and capture hashes using tools like  `smbserver.py/responder`.
 
 <div style="text-align:center">
     <img src="https://github.com/FaisalJaman1012/HashHaven/assets/91938237/dc11e0f4-4f6d-4e28-b199-cdfe6502bd60" alt="Step 3">
   <img src="https://github.com/FaisalJaman1012/HashHaven/assets/91938237/3d98414f-4c85-4a35-b220-c6b2e31c2939" alt="Step 3">
   </div>
 
-
-
-## Usage
-
-1. 
-2. 
-3. 
-4. 
-5. 
 
 ## Instructions
 
